@@ -67,8 +67,8 @@ jupyter notebook Stroke_Prediction.ipynb
 ## Project Structure
 
 ```
-Stroke_Prediction.ipynb                 EDA + preprocessing + model + inference
-healthcare-dataset-stroke-data.xls dataset
+Stroke_Prediction.ipynb                EDA + preprocessing + model + inference
+healthcare-dataset-stroke-data.xls     dataset
 ```
 
 ---
